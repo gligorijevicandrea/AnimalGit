@@ -5,6 +5,11 @@ public class Main {
         Dog dog=new Dog();
         dog.breed="Lab";
         dog.color="Yellow";
-        
+
+        Marry marry=new Marry();
+        marry.age=20;
+        marry.height="4 f";
+
+
     }
 }
