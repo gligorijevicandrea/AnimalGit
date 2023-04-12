@@ -7,7 +7,7 @@ public class Main {
         dog.color="Yellow";
 
         Marry marry=new Marry();
-        marry.age=20;
+        marry.age="20";
         marry.height="4 f";
 
 
