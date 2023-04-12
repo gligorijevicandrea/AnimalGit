@@ -5,6 +5,12 @@ public class Main {
         Dog dog=new Dog();
         dog.breed="Lab";
         dog.color="Yellow";
+
+        Dogs dogs=new Dogs();
+        dogs.weight="30";
+        dogs.eyesColor="Green";
+
+        
         
     }
 }
