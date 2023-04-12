@@ -6,10 +6,17 @@ public class Main {
         dog.breed="Lab";
         dog.color="Yellow";
 
+
         Marry marry=new Marry();
         marry.age="20";
         marry.height="4 f";
 
+
+        Dogs dogs=new Dogs();
+        dogs.weight="30";
+        dogs.eyesColor="Green";
+
+        
 
     }
 }
